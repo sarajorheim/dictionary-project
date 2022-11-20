@@ -11,7 +11,9 @@ function App() {
         <main>
           <Dictionary />
         </main>
-
+        <br />
+        <br />
+        <br />
         <footer className="App-footer">
           <small>Coded by Sara Jörheim via SheCodes </small>
         </footer>
