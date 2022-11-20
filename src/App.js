@@ -15,7 +15,13 @@ function App() {
         <br />
         <br />
         <footer className="App-footer">
-          <small>Coded by Sara Jörheim via SheCodes </small>
+          <small>
+            Coded by Sara Jörheim via SheCodes and
+            <a href="https://github.com/sarajorheim/dictionary-project.git">
+              {" "}
+              Open-Sourced on GitHub
+            </a>
+          </small>
         </footer>
       </div>
     </div>
