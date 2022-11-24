@@ -1,4 +1,15 @@
-.App-footer{
+body {
+  background: beige;
+}
+
+a {
+  color: violet;
+}
+.App-footer {
   text-align: center;
   margin: 30px auto;
+}
+
+.App-header {
+  margin: 30px 0;
 }
