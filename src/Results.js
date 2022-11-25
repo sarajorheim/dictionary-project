@@ -22,6 +22,7 @@ export default function Results(props) {
             <section key={index}>
               <Meaning meaning={meaning} />
             </section>
+            
           );
         })}
       </div>
